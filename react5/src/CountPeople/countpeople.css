@@ -1,0 +1,12 @@
+.sub-div{
+    display: inline-block;
+    padding: 0% 10rem;
+}
+button{
+    background-color: chartreuse;
+    border: 1px solid black;
+}
+span{
+    padding: 0 8px;
+    
+}
